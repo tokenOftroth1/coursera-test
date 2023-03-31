@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: module2-solution/Assignment-2.md
+  checksum: dfde4881bf981e52d7f4e092581a92d5090001fc5132b7c4d601b619b5c63f46
+- filename: module2-solution/assignment2-starter-code/styles/bootstrap.min.css
+  checksum: b1e529c07064faa0fb581478ba5506f80dc318207241aac3ea16e123c68229f3
+version: "1.0"
