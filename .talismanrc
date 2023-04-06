@@ -5,4 +5,8 @@ fileignoreconfig:
   checksum: 000c8c3c6d20be8958e301ab3cd9e1d2fc8629edf2af81ecca3311387a975af7
 - filename: module2-solution/assignment2-starter-code/styles/bootstrap.min.css
   checksum: b1e529c07064faa0fb581478ba5506f80dc318207241aac3ea16e123c68229f3
+- filename: module3-solution/angular.min.js
+  checksum: 1c0f8074cc3bc8f5f34d4fcba586106095b5aabdeb7ccadba8a4e491ca93ebef
+- filename: module3-solution/styles/bootstrap.min.css
+  checksum: 287586ad97e0001a7ae97edb41c31af53a18479f1fce1be4baa764dcab6b1ffb
 version: "1.0"
