@@ -1,0 +1,12 @@
+<ul>
+    <li ng-repeat="item in foundItems">
+        {{item.name}}, {{item.short_name}}<br>
+        {{item.description}}  <button ng-click="onRemove({ind:$index})">Don't want this one</button></li>
+</ul>
+<div class="error" ng-transclude></div>
+</div>
+<style>
+    li {
+        margin-bottom: 5px;
+    }
+</style>

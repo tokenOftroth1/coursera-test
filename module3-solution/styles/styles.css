@@ -9,6 +9,18 @@ input[type="text"] {
   float: left;
   margin-left: 10px;
 }
+.list{
+ float:left;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+  font-size: 20px;
+  float:left;
+  margin-left: 10px;
+}
+
 .loader {
   display: none;
   margin-left: 5px;
