@@ -85,6 +85,7 @@ function(){
                     narrow.errorMessage = "Nothing Found";
                     narrow.foundItemsList = [];
                 }
+            else narrow.errorMessage = ""
         })
         
             }
